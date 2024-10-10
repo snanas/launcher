@@ -3,7 +3,7 @@
 	"checkReleaseClient": "2",
 	"checkCountDownloadsFiles": "1",
 	"checkCountDownloadsFilesCurrent": "1",
-	"checkReleasePackageName": "com.flin.sa",
+	"checkReleasePackageName": "com.eaglerp.game",
 	"checkFilesGameURL": "https:\/\/d1.flin-rp.com\/client\/filesgame\/f\/",
 	"checkFilesGame1": "files.z01",
 	"checkFilesGame2": "files.z02",
